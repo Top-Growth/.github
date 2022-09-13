@@ -1,7 +1,13 @@
 ## Hello World 👋
+
+<style>
+.green{
+color:green;
+}
+</style>
  
  
- <h1>This is <span sytle="color:green;">Top</span> <span style="colo:blue;">Growth</span></h1>
+ <h1>This is <span clas="green">Top</span> <span style="colo:blue;">Growth</span></h1>
 <!--
 
 **Here are some ideas to get you started:**
